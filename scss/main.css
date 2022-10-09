@@ -10937,14 +10937,14 @@ textarea.form-control-lg {
 }
 @font-face {
   font-family: honeyFont;
-  src: url(./fonts/HoneyJarFreeTrial-L3KZn.otf);
+  src: url(./../fonts/HoneyJarFreeTrial-L3KZn.otf);
 }
 body {
   overflow-y: scroll;
 }
 
 #menu_panel {
-  background-image: url(./imgs/patern.png);
+  background-image: url(./../imgs/patern.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: auto;
