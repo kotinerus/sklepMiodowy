@@ -1,0 +1,64 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@font-face {
+    font-family: honeyFont;
+    src: url(/fonts/HoneyJarFreeTrial-L3KZn.otf);
+  }
+  body{
+    overflow-y:scroll;
+  }
+#menu_panel{
+    background-image: url(/imgs/patern.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding: 0%;
+    #menu_panel_site_text{
+        h1{
+            font-size: 8vw;
+        }
+        text-align: center;
+        font-family: honeyFont;
+    }
+}
+
+
+#menu_panel_cont{
+    text-align: center;
+    font-family: honeyFont;
+    h2{
+        font-size: 5vw;
+    }
+    a{
+        color: black;
+        text-decoration: none;
+    }
+}
+#rodzaje_container{
+    
+    top: auto;
+    height: auto;
+   #row{
+    margin-left: 1vw;
+    margin-right: 1vw;
+    padding: 1vw;
+    #col{
+        min-width: auto;
+        margin-top: 0vw;
+        background-color: lightgray;
+        padding: 2vw;
+        h3{
+            font-family: honeyFont;
+        }
+        img{
+            max-width: auto;
+            max-height: 40vh;
+        }
+        #made_eu{
+            max-width: auto;
+            max-height: 8vh; 
+        }
+    }
+    text-align: center;
+   }
+}
+
