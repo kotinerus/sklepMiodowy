@@ -1,0 +1,63 @@
+[
+    {
+        "index": 1,
+        "nazwa": "akacjowy",
+        "url": "./miody/miody-europejskie-akacjowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 2,
+        "nazwa": "lawendowy",
+        "url": "./miody/miody-europejskie-lawendowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 3,
+        "nazwa": "lipowy",
+        "url": "./miody/miody-europejskie-lipowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 4,
+        "nazwa": "midalowy",
+        "url": "./miody/miody-europejskie-migdalowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 5,
+        "nazwa": "pomaranczowy",
+        "url": "./miody/miody-europejskie-pomaranczowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 6,
+        "nazwa": "rozmarynowy",
+        "url": "./miody/miody-europejskie-rozmarynowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 7,
+        "nazwa": "slonecznikowy",
+        "url": "./miody/miody-europejskie-slonecznikowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 8,
+        "nazwa": "spadziowy",
+        "url": "./miody/miody-europejskie-spadziowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 9,
+        "nazwa": "wielokwiatowy",
+        "url": "./miody/miody-europejskie-wielokwiatowy-690x863.png",
+        "pochodzenie": "EU"
+    },
+    {
+        "index": 10,
+        "nazwa": "wrzosowy",
+        "url": "./miody/miody-europejskie-wrzosowy-690x863.png",
+        "pochodzenie": "EU"
+    }
+    
+]
