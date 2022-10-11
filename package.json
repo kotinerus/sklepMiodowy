@@ -9,6 +9,7 @@
   "author": "Krzysztof Wysocki",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.2.2"
+    "bootstrap": "^5.2.2",
+    "jquery": "^3.6.1"
   }
 }

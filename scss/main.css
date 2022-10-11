@@ -10996,4 +10996,7 @@ body {
 #rodzaje_container #row #col #made_eu {
   max-width: auto;
   max-height: 8vh;
+}
+#rodzaje_container #row #col:hover {
+  background-color: lightcoral;
 }/*# sourceMappingURL=main.css.map */

@@ -41,6 +41,7 @@
     margin-left: 1vw;
     margin-right: 1vw;
     padding: 1vw;
+    text-align: center;
     #col{
         min-width: auto;
         margin-top: 0vw;
@@ -58,7 +59,10 @@
             max-height: 8vh; 
         }
     }
-    text-align: center;
+    #col:hover{
+        background-color: lightcoral;
+    }
+    
    }
 }
 
